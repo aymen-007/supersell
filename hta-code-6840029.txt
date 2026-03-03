@@ -1,0 +1,12 @@
+<script>
+(function(prd){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = prd || {};
+s.src = "\/\/selfassured-celebration.com\/b.XYV\/sSdIGllS0MYqW\/cL\/qe\/mG9WuHZNUWlakTP_TJYD4-NpDRATweM\/j\/kXtrNTjUgo0pMVDbAWzTMkwv";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
